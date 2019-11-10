@@ -1,0 +1,32 @@
+.label ShiftRight=$84f1 {
+}
+.label ShiftLeft=$8100 {
+}
+.label CBSinusY=$89e2
+.label SetupScreen=$946 {
+}
+.label CBSinusX=$88e2
+.label AnimateCBoard=$8b5d {
+}
+.label RoadColors=$3ee0
+.label CharColors=$8000
+.label IRQ=$e01 {
+  .label Index=$e06
+}
+.label CBIndex=$8ae2
+.label FLI_START=$e00
+.label CBTemp=$8ae3
+.label tableD016=$2400
+.label Screen0=$5800
+.label tableD018=$2480
+.label Entry=$80e
+.label SetNextRoadOffsets=$1974 {
+  .label RoadPos=$1974
+}
+.label SetTables=$1f65 {
+}
+.label Sinus=$2500
+.label CBFadeCols2=$8ae5
+.label LastMove=$1973
+.label SetSprites=$868 {
+}
